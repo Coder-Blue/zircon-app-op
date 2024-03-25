@@ -42,6 +42,7 @@
   npm run tauri dev
 ```
 - Nó có thể sẽ trông như thế này sau khi bạn đã đăng nhập tài khoản thành công:
+
 ![HomeScreenshot](https://github.com/Coder-Blue/zircon-app-op/blob/main/screenshots/SC4.jpg?raw=true)
 - Khi không muốn sử dụng thì bạn có thể sử dụng nút `Close` vào màn hình `tauri` đang chạy của bạn.
 
