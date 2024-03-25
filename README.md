@@ -13,6 +13,9 @@
 - **Microsoft Visual Studio** - tải tại đây: https://visualstudio.microsoft.com/downloads/
 - **Rust** - tải tại đây: https://www.rust-lang.org/tools/install
 
+## Nếu bạn không hứng thú với việc phát triển, bạn có thể tải trực tiếp sản phẩm tại đây:
+- **Link**: https://shorturl.at/huv36
+
 ## Khuyến khích sử dụng
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
