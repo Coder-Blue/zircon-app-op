@@ -41,9 +41,13 @@
 ```bash
   npm run tauri dev
 ```
-- Nó có thể sẽ trông như thế này sau khi bạn đã đăng nhập tài khoản thành công:
+- Bạn có thể truy cập vào tính năng trả lời AI và nó có thể sẽ trông như thế này sau khi bạn đã đăng nhập tài khoản thành công:
 
 ![HomeScreenshot](https://github.com/Coder-Blue/zircon-app-op/blob/main/screenshots/SC4.jpg?raw=true)
+
+- Và bạn có thể truy cập vào phần tra cứu từ điển, hình ảnh minh họa như sau:
+
+![TransScreenshot](https://github.com/Coder-Blue/zircon-app-op/blob/main/screenshots/SC5.jpg?raw=true)
 - Khi không muốn sử dụng thì bạn có thể sử dụng nút `Close` vào màn hình `tauri` đang chạy của bạn.
 
 ## Tổng kết
