@@ -27,7 +27,7 @@
 - Tauri vô cùng mượt, nhẹ, nhanh và dễ tùy chỉnh nên hãy yên tâm sử dụng.
 
 ## Hướng dẫn sử dụng
-- Truy cập https://firebase.google.com/ để lấy cho mình các `API Key` theo hướng dẫn của Google. Rồi dán các `API Key` mà bạn được cung cấp bởi Google rồi dán vào như hình ảnh sau:
+- Truy cập https://firebase.google.com/ để lấy cho mình các `API Key` theo hướng dẫn của Google. Rồi dán các `API Key` mà bạn được cung cấp bởi Google rồi dán vào các mục đánh dấu x như trong hình ảnh sau:
 
 ![FirebaseScreenshot](https://github.com/Coder-Blue/zircon-app-op/blob/main/screenshots/SC2.png?raw=true)
 
