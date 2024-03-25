@@ -49,7 +49,7 @@
 ## Tổng kết
 - Bạn có thể sử dụng mặc định hoặc thực hiện một số tùy chỉnh nếu bạn muốn thay đổi giao diện và tính năng miễn là bạn viết bằng React thông thạo Tauri với ngôn ngữ Rust theo hướng dẫn ở: https://tauri.app/v1/guides/.
 
-- Đây là dự án mã nguồn mở nên thoải mái thay đổi và cải tiến, nhưng hãy trích tác giả gốc `Noah Trần`. Như thế này:
+- Đây là dự án mã nguồn mở nên thoải mái thay đổi và cải tiến, nhưng hãy trích tác giả gốc `Noah Trần` như một sự tri ân. Như thế này:
 ![InfoScreenshot](https://github.com/Coder-Blue/zircon-app-op/blob/main/screenshots/SC3.jpg?raw=true)
 
 ## Hỗ trợ
